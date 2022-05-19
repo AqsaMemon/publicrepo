@@ -5,7 +5,7 @@ export default function App() {
 		{
 			questionText: 'How many states of the United States of America have a Pacific coast?',
 			answerOptions: [
-				{ answerText: '6', isCorrect: false },
+				{ answerText: '7', isCorrect: false },
 				{ answerText: '3', isCorrect: false },
 				{ answerText: '5', isCorrect: true },
 				{ answerText: '4', isCorrect: false },
